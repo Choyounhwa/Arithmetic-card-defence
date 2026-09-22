@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# OS / Editor Files
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# Local Scratch/Test Scripts (optional, keep repo clean)
+scratch/
